@@ -1,0 +1,3 @@
+Версия - Java 21
+пример запуска:
+java FilesFilter -a -p result_ -f file1.txt file2.txt
